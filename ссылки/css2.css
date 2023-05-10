@@ -1,0 +1,54 @@
+* {margin: 0; padding: 0; border: 0;}
+body {font-family: "Arial", Courier, monospace; color: #000000; padding: 0; }
+#conteiner {border: 2px #000 solid; background: url(../img/980.jpg);}
+#top {width: 200px; height: 40px;text-align: center; margin-bottom: 20px; }
+#left_bar {background: url(../img/mn1.gif); background-size: 400px 810px; ;width: 400px; height: 780px; float: left; }
+#main {position: relative; background: url(../img/mn.gif); background-size: 810px 810px; width: 810px; height: 780px; margin-left: 560px; }
+#right_bar {background: url(../img/mn1.gif); background-size: 400px 810px; width: 400px; height: 780px; float: right;}
+.clear {clear: both;}
+html { overflow:  hidden; }
+#footer {height: 100px; text-align: center; color: white;}
+#name2 {width: 200px; height: 80px; margin-left: 10px; }
+.block {
+      width: 100px;
+      height: 100px;
+      float: left;
+      background: url(../img/pi.gif);
+      background-size: cover;
+      position: relative;
+      }
+h2 {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      padding: 4px 8px;
+      color: #00FF7F;
+      margin: 0;
+      font: 14px Sans-Serif;
+      }
+.block1 {
+      margin: 10px;
+      width: 287px;
+      height: 40px;
+      float: left;
+      background: url(../img/po.png);
+      background-size: cover;
+      position: relative;
+      }
+a {color:#00FA9A;}
+a:hover {color: #f00;}
+a {text-decoration: none;}
+html { overflow:  hidden; }
+h3 {color: #7B68EE; padding-bottom: 25px;}
+li.k {color: white; margin-bottom: 50px; margin-left: 5px;}
+ul {list-style: url(../img/2.gif) inside;}
+p.t {color: #D2691E; margin-bottom: 50px;}
+h3.t {color: #7B68EE; padding-bottom: 5px;}
+h4 {color: #6495ED;}
+h4.y {color: #6495ED; padding-top: 40px;}
+h4.q {color: #6495ED; padding-bottom: 25px;}
+#ri {width: 200px; height: 200px;}
+img#ri {width: 350px; height: 250px; margin-top: 10px; margin-left: 240px;}
+img#ri1 {width: 350px; height: 250px; margin-top: 80px; margin-left: 240px;}
+img#ri3 {width: 350px; height: 220px; margin-top: 160px; margin-left: 240px;}
+img.block {width: 200px; height: 200px;}
